@@ -1,11 +1,12 @@
+# DISCLAIMER: EDUCATIONAL PURPOSES ONLY! Using any programs for malicious intent can result in serious legal consequences. Ensure you are abiding by the laws of your jurisdiction and government
 
 # Roblox Token/Cookie Stealer!
 
-What it can do - It can steal a users token, username, and profile_image once the .EXE or .PY file is ran, and it sends it to a Discord Server. 
+What it can do - It can view a users token, username, and profile_image once the .EXE or .PY file is ran, and it sends it to a Discord Server. 
 
 # COOL FEATURES - If an error is to occour, it will be sent to DISCORDWEBHOOKURL_ERROR.
 
-# What I recomend - I recomend, having the .EXE version. It wont require the victim/user to install any librarys, or Python. Here is the documentation - https://pypi.org/project/auto-py-to-exe/
+# What I recomend - I recomend, having the .EXE version. It wont require you to install any librarys, or Python. Here is the documentation - https://pypi.org/project/auto-py-to-exe/
 
  Setup - 
 
